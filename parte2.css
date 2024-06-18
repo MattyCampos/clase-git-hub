@@ -1,0 +1,34 @@
+body{
+    background-image: linear-gradient(to right, #ff8a00, #e52e71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+
+.fila{
+    column-count: 1;
+    margin: 20px;
+    text-align: center;
+    width: 80%;
+}
+
+.foto{
+    width: 150px;
+    height: 150px;
+}
+
+.publicidad{
+    width: auto;
+    border-style: double;
+    border-radius: 20px;
+    background-color: brown;
+}
+
+.precio{
+    font-size: x-large;
+}
+
+ul{
+    list-style-type: none;
+}
